@@ -22,6 +22,6 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 description: your resume
-baseurl: "/finalesfunkelnnet.github.io"
+baseurl: /finalesfunkelnnet.github.io
 url: https://www.finalesfunkeln.net
 color: "#f2f2f2"
