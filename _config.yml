@@ -21,6 +21,6 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: your resume
+description: A history of violence
 url: http://finalesfunkelnnet.github.io
 color: "#f2f2f2"
