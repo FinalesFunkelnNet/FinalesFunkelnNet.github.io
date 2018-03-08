@@ -1,5 +1,5 @@
 ---
-title: FinalesFunkeln
+title: Finales Funkeln
 timezone: Europe/Berlin
 collections:
   posts:
@@ -23,5 +23,5 @@ highlighter: rouge
 lsi: false
 description: your resume
 baseurl: "/finalesfunkelnnet.github.io"
-url: https://finalesfunkeln.net
+url: https://www.finalesfunkeln.net
 color: "#f2f2f2"
