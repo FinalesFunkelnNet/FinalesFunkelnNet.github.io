@@ -22,6 +22,5 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 description: A history of violence
-baseurl: "/finalesfunkelnnet.github.io"
-url: https://www.finalesfunkeln.net/
+http://finalesfunkelnnet.github.io
 color: "#f2f2f2"
