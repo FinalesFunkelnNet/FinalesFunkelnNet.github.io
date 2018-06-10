@@ -23,4 +23,5 @@ highlighter: rouge
 lsi: false
 description: A history of violence
 url: http://finalesfunkelnnet.github.io
+baseurl: http://finalesfunkelnnet.github.io
 color: "#f2f2f2"
