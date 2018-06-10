@@ -28,8 +28,15 @@ z-index:1;
 left:calc(2% - 36px)
 }
 .vertical-line {
-width:8px;
-background-color:#000;
+width:20px;
+background:linear-gradient(to right, 
+#fa5e2d,
+#fefe2c 10%,
+#44ffa1 20%,
+#ffffff 30%,
+#ffffff 70%,
+#36fefe 80%,
+#2c55fd 90%);
 position:absolute;
 left:calc(2% - 5px);
 top:0;
