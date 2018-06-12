@@ -14,8 +14,8 @@ min-height:150px;
 position:relative
 }
 .item:before,.last-item:after {
-background:#fff;
-border:8px solid #000;
+background:#2c2e67;
+border:8px double #fff;
 border-radius:50%;
 width:40px;
 height:40px;
