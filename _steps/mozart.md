@@ -1,11 +1,10 @@
 ---
-title: Wolfgang Amadeus Mozart
-date: 1756-01-27 00:00:00 -0700
-enddate: 1791-12-05 00:00:00 -0700
+title: Patch v1.0.0.135
+date: 2012-02-29
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Croce-Mozart-Detail.jpg/185px-Croce-Mozart-Detail.jpg)
+Finales Funkeln
+Now grants vision of the affected area during the spell and vision of enemy champions hit for a short duration afterwards
+Lux can no longer use Flash while casting Finales Funkeln
 
-Wolfgang Amadeus Mozart, baptised as Johannes Chrysostomus Wolfgangus Theophilus Mozart, was a prolific and influential composer of the Classical era.
-
-[Source: Wikipedia](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)
+[Source: leagueoflegends.com (archive.org](https://web.archive.org/web/20120302205654/https://na.leagueoflegends.com/news/fiora-patch-notes)
