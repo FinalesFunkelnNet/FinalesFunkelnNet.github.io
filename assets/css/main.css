@@ -13,7 +13,7 @@ padding-top:100px;
 min-height:150px;
 position:relative
 }
-.item:before,.last-item:after {
+.item:before {
 background:#212121;
 border:8px double #fff;
 border-radius:50%;
@@ -56,9 +56,4 @@ line-height:190%
 }
 .cv-title span {
 padding:1.9rem
-}
-.last-item{
-padding-top:80px;
-height:70px;
-position:relative
 }
